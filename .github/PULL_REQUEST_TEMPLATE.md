@@ -12,3 +12,4 @@ If this fixes a GitHub issue, make sure to have a line saying 'Fixes #XXXX' (wit
 <!-- Remove items that do not apply. For completed items, change [ ] to [x]. -->
 - [ ] documentation is added or updated
 - [ ] tests are added or updated
+- this is only practical jenkins project
