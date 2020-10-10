@@ -1,5 +1,5 @@
 Welcome to the OpenSSL Project
-this practical jenkins project triggers methods
+this is just trial triggering option 
 ==============================
 
 [![openssl logo][]][www.openssl.org]
